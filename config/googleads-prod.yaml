@@ -1,0 +1,11 @@
+adwords:
+  client_id: INSERT_OAUTH_2_CLIENT_ID_HERE
+  client_secret: INSERT_CLIENT_SECRET_HERE
+  developer_token: INSERT_DEVELOPER_TOKEN_HERE
+  refresh_token: INSERT_REFRESH_TOKEN_HERE
+dfp:
+  application_name: INSERT_APPLICATION_NAME_HERE
+  client_id: NSERT_OAUTH_2_CLIENT_ID_HERE
+  client_secret: INSERT_CLIENT_SECRET_HERE
+  network_code: INSERT_NETWORK_CODE_HERE
+  refresh_token: INSERT_REFRESH_TOKEN_HERE
